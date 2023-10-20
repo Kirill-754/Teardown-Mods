@@ -1,0 +1,3 @@
+name = Banana Bomb
+author = Tuxedo Labs
+description = This mod replaces pipe bombs with bananas.
