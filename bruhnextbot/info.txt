@@ -1,4 +1,0 @@
-name = Bruh NextBot
-author = Kirill754 (Original Mod by Danyadd)
-description = Modiffed Mod "Nextbot base"
-tags = Global, Spawn, Gameplay

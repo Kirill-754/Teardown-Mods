@@ -1,6 +1,0 @@
-<prefab version="1.1.0">
-	<group name="nextbot" tag ="nextbot" pos="0.0 0.0 0.0" rot="0.0 0.0 0.0">
-	<script file="MOD/scripts/nextbot.lua"/>
-	</group>
-</prefab>
-
